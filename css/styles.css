@@ -1,0 +1,120 @@
+body{
+    font-family: "Roboto",sans-serif;
+    color: #434455;
+    background-color: #fff;
+
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+.logo {
+    color:  #4D5AE5;
+font-family: Raleway,sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.logo-part {
+     color: #2E2F42;
+}
+
+.nav-link {
+    color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height:1.5;
+letter-spacing: 0.02em;
+}
+.nav-link:hover,
+.nav-link:focus{
+    color: #404BBF;
+}
+.address {
+    font-style: normal;
+}
+.address-link {
+    color:  #434455;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.address-link:hover,
+.address-link:focus{
+    color: #404BBF;
+}
+.section-button{
+    background-color: #2E2F42;
+}
+.h1 {
+    color:#fff;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.01em;
+}
+.button { color:  #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.06em;
+    border-radius: 4px;
+background:  #4D5AE5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.button:hover,
+.button:focus{
+    color: #FFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.06em;
+border-radius: 4px;
+background:  #404BBF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.h2 {
+    color:  #2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+.tittle {color:  #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+.text {
+    color: #434455;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.logo-part2{
+    color: #F4F4FD;
+}
+.footer{
+    background-color: #2E2F42;
+}
+.text-footer{
+    color: #F4F4FD;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
+.section-team{
+    background-color: #F4F4FD;
+}
